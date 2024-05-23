@@ -183,7 +183,7 @@ header .container {
       rgba(56, 56, 56, 0.671),
       rgba(139, 15, 108, 0.73)
     ),
-    url("/images/japan.jpg");
+    url("../images/japan.jpg");
 }
 .hero .container {
   height: inherit;
